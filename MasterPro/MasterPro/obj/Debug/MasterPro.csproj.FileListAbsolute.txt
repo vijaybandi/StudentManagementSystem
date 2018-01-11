@@ -1,0 +1,17 @@
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\bin\Debug\MasterPro.exe.config
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\bin\Debug\MasterPro.exe
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\bin\Debug\MasterPro.pdb
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.csprojResolveAssemblyReference.cache
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.LoginDlg.resources
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.Dlg.SelectMasterDlg.resources
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.Dlg.UpdateMasterDlg.resources
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.Dlg.AddScoreDlg.resources
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.Dlg.SelecetScoreDlg.resources
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.Dlg.UpdateScoreDlg.resources
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.Dlg.TutorDlg.resources
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.Properties.Resources.resources
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.csproj.GenerateResource.Cache
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.exe
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.pdb
+c:\users\51153\documents\visual studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.Dlg.AddMasterDlg.resources
+C:\Users\51153\Documents\Visual Studio 2015\Projects\MasterPro\MasterPro\obj\Debug\MasterPro.Dlg.UpdatePasswordDlg.resources
