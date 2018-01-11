@@ -4,7 +4,7 @@ Student(Master) Score Management System written by C# using sql server etc..
 # File Folder MasterPro
 It is c# program.
 
-# File Folder MasterSQL
+# File Folder MasterPro
 It is sql program.
 
 ---
