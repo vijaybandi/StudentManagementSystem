@@ -4,7 +4,7 @@ Student(Master) Score Management System written by C# using sql server etc..
 # File Folder MasterPro
 It is c# program.
 
-# File Folder MasterPro
+# File Folder MasterSQLPro
 It is sql program.
 
 ---
@@ -16,4 +16,6 @@ This Student Management System is written by c# using sql. Its image are as foll
 
 ## E-R image
 ![E-R.png](./image/E-R.png)
+
+There are some bugs that I can handle it now for the reason I am busy now for the design of OS.
 
